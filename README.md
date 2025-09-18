@@ -22,7 +22,7 @@ Um mini-projeto de **POO e manipulação do DOM** usando JavaScript puro.
 
 ## 📸 Demonstração
 
-![Exemplo do projeto](https://link-da-sua-imagem-aqui.com/imagem.png)
+![Exemplo do projeto](https://github.com/moisesvinicius404/lista-pessoas/blob/main/img-lista-pessoas.png)
 
 ---
 
